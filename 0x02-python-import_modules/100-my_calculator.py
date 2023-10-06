@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 from calculator_1 import add, mul, sub, div
-if __name__ = "__main__":
+if __name__ == "__main__":
     from sys import argv, exit
 
     if len(argv) - 1 != 3:
