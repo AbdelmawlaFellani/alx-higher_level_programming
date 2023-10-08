@@ -5,4 +5,4 @@ def new_in_list(my_list, idx, element):
         cpy_list[idx] = element
         return cpy_list
     else:
-        return my_list
+        return my_list.copy()
