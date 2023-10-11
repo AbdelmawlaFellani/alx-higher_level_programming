@@ -15,4 +15,4 @@ def roman_to_int(roman_string):
             res -= roman[symbol]
         prev = roman[symbol]
 
-    return res
+    return int(res)
