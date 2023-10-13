@@ -26,13 +26,13 @@ The projects in this repository are:
     0x03-python-data_structures
 
 ## Technologies Used
-The projects in this repository were primarily developed using Python and various Python libraries. You may need Python (version 3.10.4) installed on your system to run and test these projects.
+The projects in this repository were primarily developed using Python and various Python libraries. You may need Python (version 3.10.12) installed on your system to run and test these projects.
 Setup
 
 To set up the environment for these projects, you will need to have the following installed:
 
     Ubuntu 20.04 LTS
-    Python 3.10.4
+    Python 3.10.12
     Pycodestyle
 
 ## Usage
