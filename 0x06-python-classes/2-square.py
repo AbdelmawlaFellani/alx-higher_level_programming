@@ -3,9 +3,14 @@
 
 
 class Square:
-    """Class Definition"""
+    """Class to represent a square object.
+
+    Attributes:
+        size (int): The length of one side of the square.
+    """
 
     def __init__(self, size=0):
+        """Initialize a new Square object."""
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
         elif size < 0:
