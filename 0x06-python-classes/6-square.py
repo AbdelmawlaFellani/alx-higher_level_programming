@@ -62,4 +62,4 @@ class Square:
             for i in range(py):
                 print()
             for i in range(self.__size):
-                print("{}{}".format(" " * px, "#" * self.__size))
+                print(" " * px + "#" * self.__size)
