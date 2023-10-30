@@ -3,4 +3,6 @@
 
 
 class Rectangle:
+    """ Class Representation """
+
     pass
