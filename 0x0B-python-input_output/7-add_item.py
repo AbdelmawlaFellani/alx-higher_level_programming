@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module for dd_item method."""
+"""Module for add_item method."""
 
 
 import sys
