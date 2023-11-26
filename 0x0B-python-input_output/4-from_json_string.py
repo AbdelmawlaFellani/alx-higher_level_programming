@@ -9,7 +9,7 @@ def from_json_string(my_str):
     """
         Method for from_json_string
 
-        Args: 
+        Args:
             my_str (str): The string provided
 
         Return:
